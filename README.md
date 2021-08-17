@@ -2,6 +2,8 @@
 
 A new Flutter package project.
 
+[![codecov](https://codecov.io/gh/MohamedAbdallah-14/Flutter-API-Manager/branch/master/graph/badge.svg?token=x1TZgR0ppA)](https://codecov.io/gh/MohamedAbdallah-14/Flutter-API-Manager)
+
 ## Getting Started
 
 This project is a starting point for a Dart
